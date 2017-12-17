@@ -1,0 +1,223 @@
+[
+  {t:"#7C444C"}
+],
+
+
+[
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Esc",
+  {c:"#F75627",t:"#7C444C",a:4},
+  "!\n1","@\n2","#\n3","$\n4","%\n5",
+  {x:2},
+  "^\n6","&\n7","*\n8","(\n9",")\n0",
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Pause"
+],
+[
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Game1",
+  {c:"#691A1D",t:"#2696a6",a:7,x:12},
+  "Dvorak"
+],
+[
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "",
+  {c:"#691A1D",t:"#2696a6",a:7,x:12},
+  "SDvork"
+],
+[
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "",
+  {c:"#691A1D",t:"#2696a6",a:7,x:12},
+  "Qwerty"
+],
+[
+  {y:-0.5,x:6,c:"#FB8D31",t:"#7C444C",h:1.5,a:7},
+  "Bkspc",
+  {h:1.5},
+  "Enter"
+],
+[
+  {y:-0.5,c:"#691A1D",t:"#2696a6"},
+  "",
+  {c:"#7DCBD0",t:"#7C444C"},
+  "Ctrl","Alt","Cmd",
+  {c:"#691A1D",t:"#2696a6"},
+  "Left",
+  {c:"#7DCBD0",t:"#7C444C"},
+  "Shift",
+  {x:2},
+  "Space",
+  {c:"#691A1D",t:"#2696a6"},
+  "Right",
+  {c:"#7DCBD0",t:"#7C444C"},
+  "Shift Cmd","Shift Alt","Shift Ctrl",
+  {c:"#691A1D",t:"#2696a6"},
+  "Hyper"
+],
+
+
+[],
+[
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Dvorak",
+  {c:"#FB8D31",t:"#7C444C",a:4},
+  "\"\n'","<\n,",">\n.","P","Y",
+  {x:2},
+  "F","G","C","R","L"
+],
+[
+  {c:"#F3B33B",t:"#7C444C",x:1},
+  "A","O","E","U","I",
+  {x:2},
+  "D","H","T","N","S"
+],
+[
+  {c:"#7DCBD0",t:"#7C444C",x:1},
+  ":\n;","Q","J","K","X",
+  {x:2},
+  "B","M","W","V","Z"
+],
+
+
+[],
+[
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Lost Keys",
+  {c:"#FB8D31",t:"#7C444C",a:4}, "~\n`", "_\n-", "+\n=", "{\n[", "}\n]", "|\n\\", "?\n/"
+],
+[
+  {c:"#F75627",t:"#7C444C",a:4,x:1},
+  "F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+],
+
+
+[],
+[
+  {x:15,y:-13},
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Left",
+  {c:"#F75627",t:"#7C444C",a:4},
+  "F1","F2","F3","F4","F5",
+  {x:1},
+  "F6","F7","F8","F9","F10"
+],
+[
+  {x:16},
+  {c:"#FB8D31",t:"#7C444C",a:4},
+  "Esc",
+  "{",
+  "|",
+  "}",
+  "<i class='kb kb-Unicode-Command-3'></i>~",
+  {x:1},
+  "~\n`",
+  "&\n7",
+  "*\n8",
+  "\n9",
+  "\\"
+],
+[
+  {x:16},
+  {c:"#F3B33B",t:"#7C444C"},
+  "",
+  "(",
+  ",",
+  ")",
+  "<i class='kb kb-Unicode-Command-3'></i><i class='kb kb-Tab-1'></i>",
+  {x:1},
+  "<i class='kb kb-Tab-1'></i>",
+  "$\n4",
+  "%\n5",
+  "^\n6",
+  "-"
+],
+[
+  {x:16},
+  {c:"#7DCBD0",t:"#7C444C"},
+  "Reset",
+  "[",
+  ":",
+  "]",
+  "",
+  {x:1},
+  "?\n/",
+  "!\n1",
+  "@\n2",
+  "#\n3",
+  "+\n="
+],
+
+
+
+[],
+[
+  {x:15},
+  {c:"#691A1D",t:"#2696a6",a:7},
+  "Right",
+  {c:"#F75627",t:"#7C444C",a:4},
+  "F1","F2","F3","F4","F5",
+  {x:1},
+  "F6","F7","F8","F9","F10"
+],
+[
+  {x:16},
+  {c:"#FB8D31",t:"#7C444C",a:4},
+  "Home",
+  "<i class='fa fa-chrome'></i>\n\n<i class='fa fa-rotate-left'></i>",
+  "<i class='fa fa-arrow-up'></i>",
+  "<i class='fa fa-chrome'></i>\n\n<i class='fa fa-rotate-right'></i>",
+  "Pg up",
+  {x:1},
+  "<i class='fa fa-slack'></i>\n\n<i class='fa fa-angle-double-up'></i>",
+  "<i class='fa fa-chrome'></i>\n\n<i class='fa fa-arrow-left'></i>",
+  "<i class='fa fa-arrow-up'></i>",
+  "<i class='fa fa-chrome'></i>\n\n<i class='fa fa-arrow-right'></i>",
+  "<i class='fa fa-volume-up'></i>"
+],
+[
+  {x:16},
+  {c:"#F3B33B",t:"#7C444C"},
+  "End",
+  "<i class='fa fa-arrow-left'></i>",
+  "<i class='fa fa-arrow-down'></i>",
+  "<i class='fa fa-arrow-right'></i>",
+  "Pg dn",
+  {x:1},
+  "<i class='fa fa-slack'></i>\n\n<i class='fa fa-angle-double-down'></i>",
+  "<i class='fa fa-arrow-left'></i>",
+  "<i class='fa fa-arrow-down'></i>",
+  "<i class='fa fa-arrow-right'></i>",
+  "<i class='fa fa-volume-down'></i>"
+],
+[
+  {x:16},
+  {c:"#7DCBD0",t:"#7C444C"},
+  "<i class='fa fa-terminal'></i>\n\n<i class='fa fa-angle-double-left'></i>",
+  "<i class='fa fa-terminal'>\n\n</i><i class='fa fa-angle-left'></i>",
+  "<i class='fa fa-terminal'>\n\n</i><i class='fa fa-remove'></i>",
+  "<i class='fa fa-terminal'>\n\n</i><i class='fa fa-angle-right'></i>",
+  "<i class='fa fa-terminal'>\n\n</i><i class='fa fa-angle-double-right'></i>",
+  {x:1},
+  "",
+  "<i class='fa fa-bolt'></i>\n\n<i class='fa fa-arrow-left'></i>",
+  "<i class='fa fa-bolt'></i>\n\nF",
+  "<i class='fa fa-bolt'></i>\n\n<i class='fa fa-arrow-right'></i>",
+  "<i class='fa fa-volume-off'></i>"
+],
+
+
+[],
+[
+  {x:15},
+  {c:"#691A1D",t:"#2696a6"},
+  "Burgun",
+  {c:"#F75627",t:"#7C444C"},
+  "Red",
+  {c:"#7DCBD0",t:"#7C444C"},
+  "Blue",
+  {c:"#F3B33B",t:"#7C444C"},
+  "Yellow",
+  {c:"#FB8D31",t:"#7C444C"},
+  "Orang"
+]

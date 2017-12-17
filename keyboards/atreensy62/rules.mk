@@ -39,7 +39,7 @@ F_USB = $(F_CPU)
 #     This definition is optional, and if your keyboard supports multiple bootloaders of
 #     different sizes, comment this out, and the correct address will be loaded
 #     automatically (+60). See bootloader.mk for all options.
-BOOTLOADER = caterina
+BOOTLOADER = halfkay
 
 # Interrupt driven control endpoint task(+60)
 OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
@@ -49,9 +49,9 @@ OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
 #   the appropriate keymap folder that will get included automatically
 #
 BOOTMAGIC_ENABLE = no       # Virtual DIP switch configuration(+1000)
-MOUSEKEY_ENABLE = yes       # Mouse keys(+4700)
+MOUSEKEY_ENABLE = no       # Mouse keys(+4700)
 EXTRAKEY_ENABLE = yes       # Audio control and System control(+450)
-CONSOLE_ENABLE = yes         # Console for debug(+400)
+CONSOLE_ENABLE = no         # Console for debug(+400)
 COMMAND_ENABLE = yes        # Commands for debug and configuration
 NKRO_ENABLE = no            # Nkey Rollover - if this doesn't work, see here: https://github.com/tmk/tmk_keyboard/wiki/FAQ#nkro-doesnt-work
 #BACKLIGHT_ENABLE = no      # Enable keyboard backlight functionality
