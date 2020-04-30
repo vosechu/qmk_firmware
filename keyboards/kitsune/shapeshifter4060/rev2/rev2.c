@@ -1,4 +1,4 @@
-#include "laptreus.h"
+#include "rev2.h"
 
 void matrix_init_kb() {
   // auto detect output on init
